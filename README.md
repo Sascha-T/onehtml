@@ -16,10 +16,10 @@ Turn a html file with refrences to js files (local files or external files) into
   **Done! You should now have the same file as before but with no refrences to files not contained in the html file**
   
 # Use cases
-  There are limited use cases:\
-  - You could use this for a school project/presentation at work if\
+  There are limited use cases:
+  - You could use this for a school project/presentation at work if
     - Your school/workplace doesn't have internet\
-      or\
+      or
     - Your school/workplace has whitelisted domains and anything else gets blocked
   
 # License
