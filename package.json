@@ -1,0 +1,25 @@
+{
+  "name": "onehtml",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "dependencies": {
+    "@types/node": "^10.12.7",
+    "commander": "^2.19.0",
+    "node-fetch": "^2.3.0"
+  },
+  "devDependencies": {},
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/Sascha-T/onehtml.git"
+  },
+  "author": "Sascha_T",
+  "license": "LGPL-3.0",
+  "bugs": {
+    "url": "https://github.com/Sascha-T/onehtml/issues"
+  },
+  "homepage": "https://github.com/Sascha-T/onehtml#readme"
+}
