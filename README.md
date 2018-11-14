@@ -6,7 +6,7 @@ Turn a html file with refrences to js files (local files or external files) into
   GZIP them\
   Base64 the GZIPPED scripts\
   Cut them together with each script having its own variable in the html file\
-  Put (https://github.com/jsxgraph/jsxgraph/blob/master/JSXCompressor)[JSXCompressor] into the html file (base64'd)\
+  Put [https://github.com/jsxgraph/jsxgraph/blob/master/JSXCompressor](JSXCompressor) into the html file (base64'd)\
   **Done**
 
 # How it works at runtime
