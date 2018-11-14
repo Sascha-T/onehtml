@@ -137,6 +137,7 @@ if (commander.input) {
     file = commander.input;
     dir = path.dirname(file);
     reaD = fs.readFileSync(file, "UTF-8");
+    main()
 }
 else {
     commander.outputHelp();
