@@ -24,6 +24,6 @@ Turn a html file with refrences to js files (local files or external files) into
   
 # License
   This project is licensed under the LGPL v3. See LICENSE\
-  JSXCompressor is licensed under the LGPL v3. See LICENSE-jsxcompressor
+  JSXCompressor (ziplib.comp) is licensed under the LGPL v3. See LICENSE-jsxcompressor
 # Planned
   CSS support
